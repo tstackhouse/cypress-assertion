@@ -1,0 +1,15 @@
+{
+  "name": "cypress-assertion",
+  "version": "0.0.1",
+  "description": "Reproduction case for cypress custom assersion failures",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "start": "cypress open"
+  },
+  "author": "Tim Stackhouse <tstackhouse@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "cypress": "^7.1.0"
+  }
+}
